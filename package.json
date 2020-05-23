@@ -1,0 +1,28 @@
+{
+  "name": "covid19-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot que disponibiliza dados sobre a Covid-19",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilomsou/covid19-telegram-bot.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Telegram",
+    "Bot",
+    "Covid-19"
+  ],
+  "author": "Danilo Machado, João Pedro Noronha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilomsou/covid19-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/danilomsou/covid19-telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
